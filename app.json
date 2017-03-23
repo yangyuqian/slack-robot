@@ -1,5 +1,14 @@
 {
   "name": "A Nice Guy",
   "description": "Go Getting Started Example App",
-  "image": "heroku/go:1.8"
+  "keywords": [
+    "robot",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.8",
+  "mount_dir": "src/github.com/yangyuqian/slack-robot",
+  "website": "https://github.com/yangyuqian/slack-robot",
+  "repository": "https://github.com/yangyuqian/slack-robot"
 }
